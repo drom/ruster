@@ -1,7 +1,7 @@
 [package]
 name = "ruster"
 version = "0.1.0"
-authors = ["drom <alex.drom@gmail.com>"]
+authors = ["Aliaksei Chapyzhenka <alex.drom@gmail.com>"]
 
 [dependencies]
 rand = "0.3"
