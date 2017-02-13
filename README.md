@@ -4,3 +4,9 @@
   * [rust-lang/cargo](https://github.com/rust-lang/cargo) -- [crates.io](https://crates.io)
   * [24 days of Rust](https://github.com/zsiciarz/24daysofrust)
   * [toml](https://github.com/toml-lang/toml)
+
+## compile
+
+```
+cargo rustc --release -- -C link-args=-s
+```
